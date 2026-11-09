@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+# Local 20 Newsgroups dataset
+20_newsgroups/
+20_newsgroups*.tar.gz
+
 __pycache__/
 *.py[codz]
 *$py.class
